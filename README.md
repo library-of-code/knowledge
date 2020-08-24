@@ -42,6 +42,6 @@ If you have any **issues** with certain `topics` or have a better way of impleme
 Membership for the **Library of Code** is **invite-only**. You can refer yourself or contact one of the owners if you wish to be a member.
 
 ### Membership Perks
-- Access to a **top class developer community**
+- Access to a **top class community** consisting of **industry professionals, leaders and high-achievers**
 - Internship and **Job referrals**
 - Chance to be a part of **cutting-edge** projects and ventures.
