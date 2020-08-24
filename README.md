@@ -32,3 +32,9 @@ This kind of **niche knowledge** is what we aim to document in this repo. For e.
     We aim to remove this **bias** and fog surrounding the correct use of technologies and provide only the best practices followed in the industry along with a **Big Picture** view of how a particular `technology` fits in.
 
 #
+## Contributions
+If you have **knowledge** to share, feel free to send a **pull request** to the repo with the necessary additions.
+
+
+## Issues
+If you have any **issues** with certain `topics` or have a better way of implementation, submit an **issue request** with our **issue template**.
