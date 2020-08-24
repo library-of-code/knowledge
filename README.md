@@ -1,5 +1,21 @@
 # Knowledge
 
+## How to use this repo
+
+### Way 1
+- Hit `Ctrl + F` or `Cmd + F`
+- Search for the `topic` you're looking for.
+
+### Way 2
+
+![](./githubSearch.png)
+
+- Go to `GitHub search`.
+- Search for the `keyword` you're looking for.
+- Hit search `in this repository`
+
+#
+## About
 ### A simple `google search` reveals many answers. 
 
 However, googling in itself is one of the greatest skills a developer can possess today. Also, sometimes it takes **hours of google searches** to know what **experience** can tell you in a minute!
@@ -16,16 +32,3 @@ This kind of **niche knowledge** is what we aim to document in this repo. For e.
     We aim to remove this **bias** and fog surrounding the correct use of technologies and provide only the best practices followed in the industry along with a **Big Picture** view of how a particular `technology` fits in.
 
 #
-## How to use this repo
-
-### Way 1
-- Hit `Ctrl + F` or `Cmd + F`
-- Search for the `topic` you're looking for.
-
-### Way 2
-
-![]('./img/githubSearch')
-
-- Go to `GitHub search`.
-- Search for the `keyword` you're looking for.
-- Hit `in this repository`
