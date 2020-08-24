@@ -39,7 +39,9 @@ If you have **knowledge** to share, feel free to send a **pull request** to the 
 If you have any **issues** with certain `topics` or have a better way of implementation, submit an **issue request** with our **issue template**.
 
 ## Membership
-Membership for the **Library of Code** is **invite-only**. You can refer yourself or contact one of the owners if you wish to be a member.
+Membership for the **Library of Code** is **invite-only**. 
+
+You can refer yourself or contact one of the owners if you wish to be a member. You must qualify a certain criteria for being a part of the community.
 
 ### Membership Perks
 - Access to a **top class community** consisting of **industry professionals, leaders and high-achievers**
