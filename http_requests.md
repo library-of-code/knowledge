@@ -47,7 +47,7 @@ curl {{server_url}}/v1/skills \
     -H "Content-Type:application/json" \ 
     -H "Accept: application/json" \
     -d @test-data/api_only/newProcessSkill.json
-
+#
 ### ADD PROCESS
 @processSkillId = {{createProcessSkill.response.body.id}}
 curl {{server_url}}/v1/skills/{{processSkillId}}/processes \
