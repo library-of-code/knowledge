@@ -1,5 +1,9 @@
 # k8-hands-on
 
+#
+#kubernetes #hands-on #k8 #devops
+#
+
 ## Accessing your kubernetes environment 
 
 Option 1:

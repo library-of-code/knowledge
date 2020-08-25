@@ -1,17 +1,8 @@
 # Next.js
 
-<style>
-    .note {
-        padding: 1em;
-        color: black;
-        background: aliceblue;
-    }
-
-    .note code {
-        color: white;
-        background: black;
-    }
-</style>
+#
+#nextjs #react #navigation #layout #authentication
+#
 
 ## Navigation
 ### Layout
