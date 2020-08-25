@@ -1,7 +1,8 @@
 # HTTP testing in VSCode
 
 #
-#http #REST #testing
+### Keywords
+http REST testing
 #
 
 ### Setting Up REST Client Environment in VSCode

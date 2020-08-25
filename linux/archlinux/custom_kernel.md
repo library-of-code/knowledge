@@ -1,5 +1,11 @@
 ## Installing kernels
 
+#
+### Keywords
+linux archlinux kernel custom 
+#
+
+
 TODO: In progress
 
 * Rolling kernel

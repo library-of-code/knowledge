@@ -1,5 +1,10 @@
 ## Installing and configuring virt-manager on KVM/QEMU
 
+#
+### Keywords
+linux archlinux virtual manager kvm qemu
+#
+
 
 * Download packages needed for KVM/QEMU
 ```sh

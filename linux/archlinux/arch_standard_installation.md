@@ -1,5 +1,11 @@
 # Installing Arch the Standard Way
 
+#
+### Keywords
+linux archlinux installation
+#
+
+
 ---
 
 ## Create a bootable pendrive

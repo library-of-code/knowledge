@@ -1,7 +1,8 @@
 # k8-hands-on
 
 #
-#kubernetes #hands-on #k8 #devops
+### Keywords
+kubernetes hands-on k8 devops
 #
 
 ## Accessing your kubernetes environment 

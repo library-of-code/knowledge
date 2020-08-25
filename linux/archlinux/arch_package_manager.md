@@ -1,5 +1,10 @@
 ## Package Manager Commands
 
+#
+### Keywords
+linux archlinux package manager 
+#
+
 ```sh
 # Sync
 sudo pacman -Syy
