@@ -45,6 +45,6 @@ Membership for the **Library of Code GitHub** is **invite-only**.
 You can refer yourself or contact one of the owners if you wish to be a member. You must qualify a certain criteria for being a part of the community.
 
 ### Membership Perks
-- Access to a **top class community** consisting of **industry professionals, leaders and high-achievers**
-- Internship and **Job referrals**
+- Access to a **top class community** consisting of **industry professionals, leaders and high-achievers**.
+- Internship and **Job referrals**.
 - Chance to be a part of **cutting-edge** projects and ventures.
