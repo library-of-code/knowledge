@@ -6,8 +6,11 @@ aws ecs cli hands-on docker elastic container service devops
 
 ### Configure Cluster
 ```
-ecs-cli configure 
-    --cluster <CLUSTER_NAME> --default-launch-type FARGATE --config-name <PROJECT_CONFIG_NAME> --region <REGION>
+ecs-cli configure \
+    --cluster <CLUSTER_NAME> \
+    --default-launch-type FARGATE \
+    --config-name <PROJECT_CONFIG_NAME> \
+    --region <REGION>
 ```
 
 ### Deploy Cluster
